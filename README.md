@@ -1,14 +1,14 @@
-### Bonjour, je suis Mariem 👋
+### Bonjour, je suis Mariem 
 
 Développeuse full stack **en formation** à [Coda Orléans](https://coda.school) (Bachelor, titre RNCP niveau 6) et co-fondatrice de [Sehely](https://sehely.mr), une entreprise qui conçoit des solutions numériques pour la Mauritanie.
 
 Avant le code, j'ai fait de l'économie et des études diplomatiques, puis j'ai conçu des produits numériques sur le terrain. Aujourd'hui, j'apprends à les développer moi-même, de A à Z.
 
-🎯 **Je recherche une alternance de 2 ans en développement full stack à partir de septembre 2027** (rythme 3 semaines en entreprise / 1 semaine à l'école).
+ **Je recherche une alternance de 2 ans en développement full stack à partir de septembre 2027** (rythme 3 semaines en entreprise / 1 semaine à l'école).
 
 ---
 
-#### 🛠️ Ce que j'utilise
+####  Ce que j'utilise
 
 **Langages :** C · Python · JavaScript · HTML · SQL
 
