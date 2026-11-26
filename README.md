@@ -16,7 +16,7 @@ Avant le code, j'ai fait de l'économie et des études diplomatiques, puis j'ai 
 
 **IA :** Claude Code, IA générative (comme assistant de développement)
 
-#### 🚀 Projets
+#### Projets
 
 | Projet | Description | Mon rôle |
 |---|---|---|
@@ -25,6 +25,6 @@ Avant le code, j'ai fait de l'économie et des études diplomatiques, puis j'ai 
 | **Nidly** | Application de solidarité : signalement de personnes dans le besoin sur une carte en temps réel, mise en relation avec des bénévoles. | Initiatrice du projet : conception et fonctionnalités |
 | **[Tic-tac-toe](https://github.com/mariemouu/tic-tac-toe)** | Morpion en C contre l'ordinateur, avec une IA simple et une gestion robuste des saisies. | Développement (projet Coda) |
 
-#### 📫 Me contacter
+#### Me contacter
 
 [LinkedIn](https://www.linkedin.com/in/mariem-cheikh-malainine) · mariem.cheikhm@gmail.com
