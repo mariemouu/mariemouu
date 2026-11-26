@@ -8,7 +8,7 @@ Avant le code, j'ai fait de l'économie et des études diplomatiques, puis j'ai 
 
 ---
 
-####  Ce que j'utilise
+####  Ce que j'apprends à utiliser :
 
 **Langages :** C · Python · JavaScript · HTML · SQL
 
